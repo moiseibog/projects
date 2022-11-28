@@ -1,5 +1,4 @@
 
-
 MyProject : main.o
 	g++ main.o -o MyProject
 
